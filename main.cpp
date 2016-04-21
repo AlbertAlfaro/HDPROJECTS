@@ -1,7 +1,7 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <math.h>
-
+//HOLA SOY ALGUIEN
 void display(void)
 {
     glClear(GL_COLOR_BUFFER_BIT);
